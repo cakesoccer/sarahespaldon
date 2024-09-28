@@ -1,0 +1,72 @@
+/* .maintxt {
+    background-image: url(./images/pond.jpeg);
+    background-size: cover;
+}
+
+.hero {
+    height: 50vh;
+    background-image: url(./images/pond.jpeg);
+    background-size: cover;
+} */
+
+/* #hero {
+    background-color: black;
+    background-image: url(./images/pond.jpeg);
+    background-size: contain;
+    background-repeat: no-repeat;
+} */
+
+.carousel-caption {
+  top: 5rem;
+}
+
+#navbar {
+  /* background-color: #212529; */
+  background-color: #171909;
+}
+
+/* body {
+  background-color: #171909;
+} */
+
+.bg-dark {
+  background-color: #171909;
+}
+
+.featurette-heading {
+  margin-top: 2rem;
+}
+
+@media (max-width: 650px) {
+  .carousel-caption {
+    position: revert;
+    color: black;
+  }
+
+  .hero-caption {
+    background-color: #979a8f;
+    max-width: none;
+    padding-left: 3rem;
+    padding-right: 3rem;
+  }
+
+  .about-div {
+    text-align: start!important;
+    padding-left: 3rem!important;
+    padding-right: 3rem!important;
+  }
+
+
+}
+
+/* Black Marlin
+#3b2d1b
+
+Mongoose
+#bf9d7c
+
+Lemon Grass
+#979a8f
+
+Gray
+#8f8c8c */
